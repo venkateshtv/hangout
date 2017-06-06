@@ -1,1 +1,1 @@
-web: gunicorn app:localeapi.py
+web: gunicorn localeapi:app
